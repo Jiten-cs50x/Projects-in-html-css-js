@@ -1,1 +1,1 @@
-This is a repo for me to build back my html,css and js skills which have eaten dust.
+I am building things for FUN!, I hate frontend but I gotta learn the basics of things to work on backend. 
